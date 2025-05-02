@@ -23,7 +23,7 @@ You can access demo app in : <https://laravel-inertia-vuetify.fly.dev>
 Clone repo locally
 
 ```bash
-git clone https://github.com/ahmadfaizk/laravel-inertiajs-vuetify-starterkit
+git clone https://github.com/sabat-12067/laravel-inertiajs-vuetify-starterkit
 cd laravel-inertiajs-vuetify-starterkit
 ```
 
