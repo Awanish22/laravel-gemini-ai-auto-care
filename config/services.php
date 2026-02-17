@@ -34,7 +34,7 @@ return [
     'api_key' => env('OPENAI_API_KEY'),
 ],
 'gemini' => [
-    'api_key' =>'AIzaSyD0wNx6V626e-_PYxx9AXMyfr3WyvYLwbQ',
+    'api_key' => env('GEMINI_API_KEY'),
 ],
 
 ];
